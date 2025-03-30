@@ -17,7 +17,8 @@ Fully Responsive: Works on all devices (mobile, tablet, desktop).
 
 Live Demo
 
-🔗 Live Demo: Click Here (Add your deployed link here)
+🔗 Live Demo: 🔗 [Click Here to View](https://aveenavin.github.io/BMI_Calculator/)
+
 
 Screenshots
 
