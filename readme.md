@@ -14,15 +14,20 @@ Health Classification: Categorizes BMI as Underweight, Normal, Overweight, or Ob
 
 Fully Responsive: Works on all devices (mobile, tablet, desktop).
 
+Screenshots
+
+ (Replace with your actual screenshot file path)
+
+
+ **Live Preview:**
+
+![BMI Calculator Demo](assets/bmi-demo.gif)  
 
 Live Demo
 
 🔗 Live Demo: 🔗 [Click Here to View](https://aveenavin.github.io/BMI_Calculator/)
 
 
-Screenshots
-
- (Replace with your actual screenshot file path)
 
 Installation & Usage
 
