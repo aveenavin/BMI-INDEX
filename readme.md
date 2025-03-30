@@ -33,7 +33,7 @@ Installation & Usage
 
 1. Clone the repository:
 
-git clone https://github.com/aveenavin/BMI-Calculator.git
+git clone https://github.com/aveenavin/BMI_Calculator.git
 
 
 2. Navigate to the project folder:
