@@ -15,7 +15,7 @@ Health Classification: Categorizes BMI as Underweight, Normal, Overweight, or Ob
 Fully Responsive: Works on all devices (mobile, tablet, desktop).
 
 
- **Live Preview:**
+ ## **Live Preview:**
 
 ![BMI Calculator GIF](https://github.com/user-attachments/assets/5eb5963a-3aba-4ea6-b2ab-1678bafa39bf)
 
