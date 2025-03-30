@@ -1,4 +1,4 @@
-## BMI Index Calculator
+# BMI Index Calculator
 
 ## Overview
 
@@ -17,13 +17,11 @@ Fully Responsive: Works on all devices (mobile, tablet, desktop).
 
  **Live Preview:**
 
-![BMI Calculator Demo](assets/bmi-demo.gif)  
+![BMI Calculator GIF](   )  
 
-## Live Demo
+## 🔗 Live Demo:
 
-🔗 Live Demo:
 [Click Here to View](https://aveenavin.github.io/BMI_Calculator/)
-
 
 
 ## Installation & Usage
@@ -32,20 +30,15 @@ Fully Responsive: Works on all devices (mobile, tablet, desktop).
 
 git clone https://github.com/aveenavin/BMI_Calculator.git
 
-
 2. Navigate to the project folder:
 
 cd BMI-Calculator
 
-
 3. Open the index.html file in your browser.
-
 
 4. Enter your height and weight to see your BMI result instantly!
 
-
-
- # Tech Stack
+ ## Tech Stack
 
 HTML – Structure of the BMI calculator
 
@@ -54,24 +47,19 @@ CSS – Styling and responsiveness
 JavaScript – Logic for BMI calculation and interactivity
 
 
-# Contributing
+## Contributing
 
 We welcome contributions! Follow these steps:
 
 1. Fork the repository
 
-
 2. Create a new branch (feature-xyz)
-
 
 3. Commit changes and push
 
-
 4. Open a pull request
 
-
-
-## Contact
+# Contact
 
  **GitHub**: [Aveen](https://github.com/aveenavin)
 
