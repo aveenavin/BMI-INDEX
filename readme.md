@@ -25,7 +25,8 @@ Screenshots
 
 Live Demo
 
-🔗 Live Demo: 🔗 [Click Here to View](https://aveenavin.github.io/BMI_Calculator/)
+🔗 Live Demo:
+[Click Here to View](https://aveenavin.github.io/BMI_Calculator/)
 
 
 
