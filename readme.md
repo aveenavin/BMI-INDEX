@@ -80,8 +80,10 @@ This project is open-source and available under the MIT License.
 
 Contact
 
- **GitHub**: [Aveen](https://github.com/aveenavin)  
-🔗 **LinkedIn**: [Aveen](https://www.linkedin.com/in/aveenavin)  
+ **GitHub**: [Aveen](https://github.com/aveenavin)
+
+🔗 **LinkedIn**: [Aveen](https://www.linkedin.com/in/aveenavin)
+
  **Email**: [73aveen@gmail.com](mailto:73aveen@gmail.com)
 
 
