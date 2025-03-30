@@ -17,7 +17,7 @@ Fully Responsive: Works on all devices (mobile, tablet, desktop).
 
  **Live Preview:**
 
-![BMI Calculator GIF](   )  
+![BMI Calculator GIF](https://github.com/user-attachments/assets/5eb5963a-3aba-4ea6-b2ab-1678bafa39bf)
 
 ## 🔗 Live Demo:
 
@@ -63,7 +63,7 @@ We welcome contributions! Follow these steps:
 
  **GitHub**: [Aveen](https://github.com/aveenavin)
 
-🔗 **LinkedIn**: [Aveen](https://www.linkedin.com/in/aveenavin)
+ **LinkedIn**: [Aveen](https://www.linkedin.com/in/aveenavin)
 
  **Email**: [73aveen@gmail.com](mailto:73aveen@gmail.com)
 
