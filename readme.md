@@ -4,6 +4,11 @@
 
 This is a beautifully designed BMI (Body Mass Index) Calculator built using HTML, CSS, and JavaScript. It allows users to enter their height and weight to get an instant BMI calculation along with a health classification.
 
+## **Live Preview:**
+
+![BMI Calculator GIF](https://github.com/user-attachments/assets/5eb5963a-3aba-4ea6-b2ab-1678bafa39bf)
+
+
 ## Features
 
 User-Friendly Interface: Clean and responsive UI.
@@ -14,10 +19,6 @@ Health Classification: Categorizes BMI as Underweight, Normal, Overweight, or Ob
 
 Fully Responsive: Works on all devices (mobile, tablet, desktop).
 
-
- ## **Live Preview:**
-
-![BMI Calculator GIF](https://github.com/user-attachments/assets/5eb5963a-3aba-4ea6-b2ab-1678bafa39bf)
 
 ## 🔗 Live Demo:
 
