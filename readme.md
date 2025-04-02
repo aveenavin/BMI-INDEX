@@ -5,9 +5,8 @@
 This is a beautifully designed BMI (Body Mass Index) Calculator built using HTML, CSS, and JavaScript. It allows users to enter their height and weight to get an instant BMI calculation along with a health classification.
 
 ## **Live Preview:**
-
+![BMI Calculator screenshot](https://github.com/aveenavin/BMI_Calculator/blob/main/Screenshot%202025-04-02%20170902.png?raw=true)
 ![BMI Calculator GIF](https://github.com/user-attachments/assets/5eb5963a-3aba-4ea6-b2ab-1678bafa39bf)
-
 
 ## Features
 
